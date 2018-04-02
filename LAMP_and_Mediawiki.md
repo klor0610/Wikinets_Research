@@ -200,4 +200,4 @@ copy this to the end of the 'LocalSettings.php` file
 
 >wfLoadSkin( 'Vector' );
 
-Save and close the file then refresh your wikipage. You should be able to log inn now. 
+Save and close the file then refresh your wikipage. You should be able to log in now. 
